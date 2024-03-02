@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **textboxpro**
 
-- 🌱 I’m currently learning **golang**
+- 🌱 I’m currently learning **golang and rust**
 
-- 💬 Ask me about **react,nodejs**
+- 💬 Ask me about **react, nodejs**
 
 - 📫 How to reach me **arunkumar041000@gmail.com**
 
